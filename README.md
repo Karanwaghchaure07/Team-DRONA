@@ -1,5 +1,5 @@
-#### Team-DRONA
-Team-Drona is an innovative educational platform designed to provide comprehensive learning solutions, particularly in the fields of technology, coding, and science. Here are some key features and aspects of Tea Drona:
+#### DRONA
+Drona is an innovative educational platform designed to provide comprehensive learning solutions, particularly in the fields of technology, coding, and science. Here are some key features and aspects of Tea Drona:
 
 ### Overview of Drona Chatbot
 
