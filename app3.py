@@ -8,7 +8,7 @@ from googlesearch import search
 DetectorFactory.seed = 0
 
 # API key for Groq
-API_KEY = "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"
+API_KEY = "" 
 
 # Initialize the Groq client with the API key
 try:
