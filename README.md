@@ -1,4 +1,4 @@
-## DRONA-AI
+## DRONA-AI 🤖
 Drona is an innovative educational platform designed to provide comprehensive learning solutions, particularly in the fields of technology, coding, and science. Here are some key features and aspects of Team Drona:
 
 ## Overview of Drona Chatbot
